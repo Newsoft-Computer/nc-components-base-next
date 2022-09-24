@@ -1,2 +1,3 @@
-# nc-checkbox
-NC Checkbox Component React - Styles JS, Based MaterialUI
+# NC Components Base + Props Styles - Next JS
+
+- NC Components Base + Props Styles - Next JS - Javascript, TypeScript
